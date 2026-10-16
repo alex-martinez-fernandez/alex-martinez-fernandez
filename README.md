@@ -32,7 +32,7 @@ alex@github:~$ now
 
 
 **Hardware & Tools**
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -43,14 +43,14 @@ alex@github:~$ now
 #### 📂 Featured projects
 
 | Project | Description | Tech |
-| [animalario-aed-java](https://github.com/alex-martinez-fernandez/animalario-aed-java) | Console app to manage laboratory mouse populations and unit tests | Java · JUnit |
+| [animalario-aed-java](https://github.com/alex-martinez-fernandez/animalario-aed-java) | Console app to manage laboratory mouse populations | Java |
 | [PharmacyInventorySystem](https://github.com/alex-martinez-fernandez/PharmacyInventorySystem) | Pharmacy Inventory Database | SQL |
 
 #### 🧪 Academic background
 
-`Signals & Systems` · `Digital Signal Processing` · `Machine Learning in Biomedicine` · `Numerical Methods` · `Algorithms & Data Structures` · `Databases` · `Digital Electronics` · `Biostatistics` · `Physiology & Pathophysiology`
+`Signals & Systems` · `Digital Signal Processing` · `Machine Learning in Biomedicine` · `Numerical Methods` · `Algorithms & Data Structures` · `Databases` · `Digital Electronics` · `Biostatistics` · `Anatomy Physiology and  Pathophysiology`
 
 #### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/alex-martinez-fernandez-37741a374)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-martinez-fernandez-37741a374/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:almart@proximus.be)
