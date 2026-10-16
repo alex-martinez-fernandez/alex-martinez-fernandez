@@ -11,7 +11,7 @@ Biomedical signal processing · Machine learning for health · Embedded systems 
 alex@github:~$ now
 [ML]      Machine learning project for biomedicine
 [DSP]     Digital signal processing: filters, FFT, spectral analysis
-[Java]    Lab-animal population manager (data structures + CSV + JUnit)
+[Java]    Mouse population manager (data structures + CSV + JUnit)
 [Numerical Methods] Use of python to solve complex numerical methods
 ```
 
